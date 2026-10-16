@@ -1,0 +1,12 @@
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/KolibriRDM/catalog-service.git
+[submodule "orders-service"]
+	path = orders-service
+	url = https://github.com/KolibriRDM/orders-service.git
+[submodule "notifications-service"]
+	path = notifications-service
+	url = https://github.com/KolibriRDM/notifications-service.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/KolibriRDM/infrastructure.git
